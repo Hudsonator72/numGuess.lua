@@ -1,3 +1,7 @@
+-- Created by Hudsonator72 (github.com/Hudsonator72)
+
+-- /*no comment*/
+
 math.randomseed(os.time())
 
 print("\n\t         _  _  /``\\      _   __  __")
